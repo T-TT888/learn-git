@@ -8,4 +8,8 @@ agin master
 this is agin dev
 >>>>>>> dev
 this is black branch
+<<<<<<< Updated upstream
 master fix bug
+=======
+this is bug
+>>>>>>> Stashed changes
